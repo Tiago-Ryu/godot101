@@ -1,0 +1,1 @@
+Este é um estudo do godot para entendimento de seu funcionamento básico
